@@ -8,3 +8,4 @@ openai==0.25.0
 requests==2.26.0
 tensorflow==2.5.0
 pyngrok==5.1.0
+six==1.16.0
