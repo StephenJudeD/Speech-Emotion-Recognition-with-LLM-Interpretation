@@ -1,0 +1,10 @@
+Flask==2.0.1
+numpy==1.21.0
+librosa==0.8.0
+speechrecognition==3.8.1
+pydub==0.25.1
+scipy==1.7.0
+openai==0.25.0
+requests==2.26.0
+tensorflow==2.5.0
+pyngrok==5.1.0
