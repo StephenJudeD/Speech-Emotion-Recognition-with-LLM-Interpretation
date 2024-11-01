@@ -1,5 +1,5 @@
 Flask==2.0.1
-numpy==1.21.0
+numpy==1.23.0  # Update to a newer version
 librosa==0.8.0
 speechrecognition==3.8.1
 pydub==0.25.1
@@ -9,4 +9,4 @@ requests==2.26.0
 tensorflow==2.5.0
 pyngrok==5.1.0
 six==1.16.0
-setuptools==68.2.2
+setuptools>=68.0.0  # Specify a minimum version instead of exact
